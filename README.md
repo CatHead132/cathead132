@@ -7,5 +7,5 @@ C:\Users\CatHead>life.exe
 Error: life.exe exceeds maximum allowed memory.  
 Operation aborted.
 ```
-##My Discord
+My 
 [Discord](https://discord.com/users/929637984981094431)
